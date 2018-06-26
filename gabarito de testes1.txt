@@ -1,0 +1,16 @@
+TESTES COM CADA ARQUIVO:
+
+--grande.txt
+-"Aliquam lo" -> tam=10 | 63 ocorrencias
+-"Donec pede justo, fringilla vel, aliquet nec, vulp" -> tam=50 | 33 ocorrencias
+-"eros quam gravida nisl, id fringilla neque ante vel mi. Morbi mollis tellus ac sapien. Phasellus volutpat, metus eget egestas mollis, lacus lacus blandit dui, id egestas quam mauris ut lacus. Fusce vel dui. Sed in libero ut nibh placerat accumsan. Pr" -> tam=250 | 30 ocorrencias
+
+--medio.txt
+-"venenatis " -> tam=10 | 192 ocorrencias
+-"per conubia nostra, per inceptos hymenaeos. Pellen" -> tam=50 | 24 ocorrencias
+-"cumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultrici" -> tam=250 | 36 ocorrencias
+
+--pequeno.txt
+-"Phasellus " -> tam=10 | 24 ocorrencias
+-"Donec pede justo, fringilla vel, aliquet nec, vulp" -> tam=50 | 2 ocorrencias
+-"hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis" -> tam=250 | 2 ocorrencias
